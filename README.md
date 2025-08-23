@@ -27,7 +27,7 @@ Performed EDA and built a logistic regression model to predict passenger surviva
 - Interpreted model outputs in a business context
 
 **Tools:** Python, pandas, seaborn, matplotlib, scikit-learn  
-📁 [View Project Folder](./titanic-survival-analysis)
+📁 [View Project Folder](./edaTitanic)
 
 ---
 
