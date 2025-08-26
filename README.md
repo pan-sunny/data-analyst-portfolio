@@ -55,7 +55,7 @@ Transformed raw accelerometer data from smartphones into a tidy, analysis-ready 
 - Created a final summary dataset for downstream analysis
 
 **Tools:** R, dplyr, reshape2  
-📁 [View Project Folder](./getting-and-cleaning-data)
+📁 [View Project Folder](./getting-cleaning-data)
 
 ---
 
